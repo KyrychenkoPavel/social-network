@@ -32,7 +32,7 @@ const App = () => {
           ava + description
         </div>
         <div>
-          my posts 555
+          my posts 
         </div>
         <div>
           <div>
